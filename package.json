@@ -7,11 +7,11 @@
     "prepare": "husky install"
   },
   "engines": {
-    "node": ">=16.14.0"
+    "node": ">=16.16.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.4.2",
-    "@commitlint/config-conventional": "^17.4.2",
+    "@commitlint/cli": "^17.6.5",
+    "@commitlint/config-conventional": "^17.6.5",
     "commitizen": "^4.3.0",
     "cz-conventional-changelog": "^3.3.0",
     "husky": "^8.0.3"
