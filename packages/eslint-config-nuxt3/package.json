@@ -1,19 +1,19 @@
 {
-  "name": "@seemusic/eslint-config-vue3",
+  "name": "@seemusic/eslint-config-nuxt3",
   "private": false,
-  "version": "0.0.3",
-  "description": "Vue3 ESLint config for Kanjian Music",
+  "version": "0.0.1",
+  "description": "Nuxt3 ESLint config for Kanjian Music",
   "main": "index.js",
   "author": "cuiguojie@kanjian.com",
   "keywords": [
     "eslint-config"
   ],
   "peerDependencies": {
-    "eslint": "^8.43.0"
+    "eslint": "^8.55.0"
   },
   "dependencies": {
-    "@rushstack/eslint-patch": "^1.7.2",
-    "@vue/eslint-config-typescript": "^11.0.3",
+    "@nuxtjs/eslint-config-typescript": "^12.1.0",
+    "@vue/eslint-config-typescript": "^12.0.0",
     "eslint-plugin-vue": "^9.23.0"
   },
   "devDependencies": {
@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/SeeMusic/f2e-spec"
   },
-  "homepage": "https://github.com/SeeMusic/f2e-spec/packages/eslint-config-vue3",
+  "homepage": "https://github.com/SeeMusic/f2e-spec/packages/eslint-config-nuxt3",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SeeMusic/f2e-spec.git"
