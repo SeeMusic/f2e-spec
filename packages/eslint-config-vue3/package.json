@@ -1,7 +1,7 @@
 {
   "name": "@seemusic/eslint-config-vue3",
   "private": false,
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Vue3 ESLint config for Kanjian Music",
   "main": "index.js",
   "author": "cuiguojie@kanjian.com",

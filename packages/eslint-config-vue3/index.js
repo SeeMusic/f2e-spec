@@ -21,7 +21,8 @@ module.exports = {
     'vue/multi-word-component-names': ['error', {
       'ignores': [
         'Home',
-        'Overview'
+        'Overview',
+        'index'
       ]
     }]
     // add your custom rules here
