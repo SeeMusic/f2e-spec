@@ -69,5 +69,5 @@ pnpm eslint --print-config .eslintrc.cjs > eslint-config-log.json
 
 > 命令中，`.eslintrc.cjs` 是项目中 eslint 配置文件名，需要注意不同版本的文件；`eslint-config-log.json` 是输出的文件名
 
-## 问题
-当前（2024-11-18），ESLint 版本 `9.15.0` 存在一些问题，导致项目方无法正常使用，所以暂时锁定版本为 `9.14.0`，后续会跟进更新。Issue 参见：[typescript-eslint/typescript-eslint#10338](https://github.com/typescript-eslint/typescript-eslint/issues/10338)
+如果是 `eslint@9` 版本，则可以使用 `npx @eslint/config-inspector` 通过 GUI 查看。
+
